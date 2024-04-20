@@ -1,5 +1,9 @@
 # Rent-a-house-system
 Rent a house managment system for clients developed by Java
+### Use-case diagram
+![2024-04-20_19-34-05](https://github.com/Yerassyl04/Rent-a-house-system/assets/136106017/6e01d0c3-8db9-4791-a9a6-848b3a0ca0d6)
+### Activity diagram
+![2024-04-20_19-46-24](https://github.com/Yerassyl04/Rent-a-house-system/assets/136106017/cbd5944d-7485-4357-8f38-117505a28969)
 Main page
 ![Снимок экрана 2024-04-20 174914](https://github.com/Yerassyl04/Rent-a-house-system/assets/136106017/6f3e0a51-f9b8-487a-b91f-32c606176b08)
 Login and Registration page
